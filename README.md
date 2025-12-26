@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=primalpimmy&abbreviated=true)
 
-I've working in things scaling from Linux, Cloud, Distributed computing professionally to learning Graphics Programming in my free time
+I have been working on things scaling from Linux, Cloud, Distributed computing professionally to learning Graphics Programming in my free time
 
 For reaching out, feel free to send me an email at prashant20 `[dot]` pm `[at]` gmail `[dot]` com or reaching out to me over discord: `pimtronous`
 
