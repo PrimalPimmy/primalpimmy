@@ -1,5 +1,8 @@
 ## 👋Aspiring T shaped technologist. 
 
+<img width="315" height="356" alt="image" src="https://github.com/user-attachments/assets/aae47785-5fc1-4be3-a068-3a50fe23754f" />
+
+
 ![](https://komarev.com/ghpvc/?username=primalpimmy&abbreviated=true)
 
 I have been working on things scaling from Linux, Cloud, Distributed computing professionally to learning Graphics Programming in my free time
